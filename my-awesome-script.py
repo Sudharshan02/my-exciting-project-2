@@ -1,6 +1,2 @@
 
-#this is an awesome Python script
-print("Howdy, World!.")
-
-print("Hajimemasathi sekai!.")
-
+print("Hello! World, how is it doing?.")
